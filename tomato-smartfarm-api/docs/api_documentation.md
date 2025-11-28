@@ -1,7 +1,7 @@
 # 🍅 토마토 스마트팜 API 문서
 
 **Version:** 1.0.0  
-**Last Updated:** 2024-11-28  
+**Last Updated:** 2025-11-28  
 **Author:** Seed Farm Development Team
 
 ---
